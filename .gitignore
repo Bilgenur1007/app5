@@ -3,5 +3,5 @@ audi.txt
 mevsimler/*
 istanbul.txt
 
-uluslar/*
+
 !uluslar/türiye.txt
