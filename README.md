@@ -1,0 +1,1 @@
+ders güzeldi sağolun hocam
